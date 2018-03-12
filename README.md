@@ -1,2 +1,4 @@
-# tictactoe
-A command line based tic-tac-toe game in Java
+# Tic-Tac-Toe
+A simple terminal based tic-tac-toe game in Java
+
+
